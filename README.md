@@ -1,21 +1,19 @@
-# Massa - Mobile Accessible Social Sharing Agent. 
+# Massa - Mobile Accessible Social Sharing Agent
 This app allows users to split a large file ( or a torrent ) and separately download each block in different devices and combine them again to create the original files.
 
 There are 2 major uses for this application 1) An Induvidual can use multiple internet connections and multiple devices to download a file faster. 2) Multiple people with low bandwidths can download a large file that collectively needed. The Document Below will help you start ... 
 
 https://docs.google.com/document/d/1Z7jk5WzJ2_wMt0_riYiB6q5hmrhU_Uybod42j_cXJAE/edit
 
-# Screenshots of My React Native Skeleton App ...
-https://drive.google.com/open?id=0B4xuWTi-Up-tLV9PVTlrNW9rdFU
-![img_2376](https://user-images.githubusercontent.com/28682735/34651652-ed1accec-f3e3-11e7-9dee-1d6594ffe84c.PNG)
-![img_2377](https://user-images.githubusercontent.com/28682735/34651653-ed4b7d74-f3e3-11e7-8b2d-2f64d186f7a4.PNG)
-![img_2378](https://user-images.githubusercontent.com/28682735/34651654-ed7a4c62-f3e3-11e7-83db-f73e4ea88cb2.PNG)
-![img_2379](https://user-images.githubusercontent.com/28682735/34651655-eda838fc-f3e3-11e7-93a9-9cf60ffd78d2.PNG)
-![img_2380](https://user-images.githubusercontent.com/28682735/34651656-edd4ffa4-f3e3-11e7-8934-a557499bae41.PNG)
-![img_2381](https://user-images.githubusercontent.com/28682735/34651657-ee1132e4-f3e3-11e7-930c-6ac46141e804.PNG)
-![img_2382](https://user-images.githubusercontent.com/28682735/34651658-ee4134e4-f3e3-11e7-9064-12ac2c50d300.PNG)
-![img_2383](https://user-images.githubusercontent.com/28682735/34651659-ee6f1e90-f3e3-11e7-9534-a6530576ae8d.PNG)
-![img_2384](https://user-images.githubusercontent.com/28682735/34651660-ee9d6bce-f3e3-11e7-814a-83f5b11b7622.PNG)
+# Screenshots of My React Native Skeleton App
+<img src="https://user-images.githubusercontent.com/28682735/34651652-ed1accec-f3e3-11e7-9dee-1d6594ffe84c.PNG" height="400"> <img src="https://user-images.githubusercontent.com/28682735/34651653-ed4b7d74-f3e3-11e7-8b2d-2f64d186f7a4.PNG" height="400">
+<img src="https://user-images.githubusercontent.com/28682735/34651654-ed7a4c62-f3e3-11e7-83db-f73e4ea88cb2.PNG" height="400">
+<img src="https://user-images.githubusercontent.com/28682735/34651655-eda838fc-f3e3-11e7-93a9-9cf60ffd78d2.PNG" height="400">
+<img src="https://user-images.githubusercontent.com/28682735/34651656-edd4ffa4-f3e3-11e7-8934-a557499bae41.PNG" height="400">
+<img src="https://user-images.githubusercontent.com/28682735/34651657-ee1132e4-f3e3-11e7-930c-6ac46141e804.PNG" height="400">
+<img src="https://user-images.githubusercontent.com/28682735/34651658-ee4134e4-f3e3-11e7-9064-12ac2c50d300.PNG" height="400">
+<img src="https://user-images.githubusercontent.com/28682735/34651659-ee6f1e90-f3e3-11e7-9534-a6530576ae8d.PNG" height="400">
+<img src="https://user-images.githubusercontent.com/28682735/34651660-ee9d6bce-f3e3-11e7-814a-83f5b11b7622.PNG" height="400">
 
 
 # 
